@@ -52,3 +52,7 @@ docs/*.local.md
 
 # v2.10.2 · prewarm_cache 生成的预热数据（release 附件，不进 repo）
 skills/deep-analysis/scripts/prewarm/
+
+# Local install (uv venv + project-level .claude symlinks, not for repo)
+.venv/
+.claude/
